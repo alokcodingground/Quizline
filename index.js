@@ -94,5 +94,5 @@ function showHighScorer(leaderBoard) {
 }
 
 showQuestionAndOptions(database);
-console.log(kuler(`\nYour score is - ${score}`, "#5eead4"));
+console.log(kuler(`\nYour score is: ${score}`, "#5eead4"));
 showHighScorer(leaderBoard);
