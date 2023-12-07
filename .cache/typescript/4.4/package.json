@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.673"
+  },
+  "devDependencies": {
+    "@types/kuler": "^2.0.0",
+    "@types/readline-sync": "^1.4.4"
+  }
+}
